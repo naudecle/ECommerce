@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Electro Tools</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport"/>
+
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <!--Google font-->
+        <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100;0,600;1,400&display=swap" rel="stylesheet">
+
+        <!--Caroussel-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.4.1/css/glide.core.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.4.1/css/glide.theme.min.css">
+
+        <!--Animation scrolling-->
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+        <!--StyleSheet-->
+        <link rel="stylesheet" href="./css/stylesheet.css">
+    </head>
+    <body>
+        <!-- pop Up -->
+        <div class="popup hidden_popup">
+            <div class="popup_content">
+                <div class="popup_close">
+                    <svg>
+                        <use xlink:href="./image/sprite.svg#icon-cross"></use>
+                    </svg>
+                </div>
+
+                <div class="popup_right">
+                    <div class="right_content">
+                        <h1>SIGN UP</h1>
+                        <form action="#">
+                            <label for="fname">First name</label> <br>
+                            <input type="text" class="popup_form" placeholder="Firstname"> <br>
+                            <label for="lname">Last name</label><br>
+                            <input type="text" class="popup_form" placeholder="Lastname"> <br>
+                            <label for="email">Email</label><br>
+                            <input type="email" class="popup_form" placeholder="Enter your email...."> <br>
+                            <label for="psword">Password</label><br>
+                            <input type="password" class="popup_form" placeholder="Enter password..."> <br>
+                            <label for="cpsword">Confirm The Password</label> <br>
+                            <input type="password" class="popup_form" placeholder="Confirm password..."> <br>
+                            <input type="submit" value="Sign UP">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--GlideJS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.4.1/glide.min.js"></script>
+
+        <!--Animation scrolling-->
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+        <!--script-->
+        <script src="./js/index.js"></script>
+        <script src="./js/product.js"></script>
+        <script src="./js/slide.js"></script>
+
+    </body>
+</html>

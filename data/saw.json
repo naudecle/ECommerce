@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "id":6,
+            "title": "Jig Saw",
+            "image": "./image/saw/sc_4.jpg",
+            "price": 1000 ,
+            "category": "saw"
+        },
+        {
+            "id":10,
+            "title": "Format Saw",
+            "image": "./image/saw/sc_3.jpg",
+            "price": 10000,
+            "category": "saw"
+        },
+        {
+            "id":10,
+            "title": "Mecanic Saw",
+            "image": "./image/saw/sc_6.jpg",
+            "price": 10000,
+            "category": "saw"
+        },
+        {
+            "id":15,
+            "title": "Cold Saw",
+            "image": "./image/saw/sc_1.jpg",
+            "price": 10000,
+            "category": "saw"
+        },
+        {
+            "id":19,
+            "title": "Saber Saw",
+            "image": "./image/saw/sc_2.jpg",
+            "price": 10000,
+            "category": "saw"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "id":4,
+            "title": "Phillips screwdriver ",
+            "image": "./image/screwdrivers/sd_1.png",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":11,
+            "title": "Torx screwdriver ",
+            "image": "./image/screwdrivers/sd_6.png",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":11,
+            "title": "ResistorX screwdriver ",
+            "image": "./image/screwdrivers/sd_2.jpg",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":17,
+            "title": "Electricity screwdriver",
+            "image": "./image/screwdrivers/sd_3.jpg",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":24,
+            "title": "Poridriv screwdriver",
+            "image": "./image/screwdrivers/sd_5.jpg",
+            "price": 500,
+            "category": "screwdriver"
+        }
+    ]
+}

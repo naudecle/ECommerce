@@ -1,0 +1,235 @@
+{
+    "products":[
+        {
+            "id":6,
+            "title": "Jig Saw",
+            "image": "./image/saw/sc_4.jpg",
+            "price": 1000 ,
+            "category": "saw"
+        },
+        {
+            "id":3,
+            "title": "Flat Wrench ",
+            "image": "./image/wrench/wr_3.jpg",
+            "price": 100,
+            "category": "wrench"
+        },
+        {
+            "id":4,
+            "title": "Phillips screwdriver ",
+            "image": "./image/screwdrivers/sd_1.png",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":8,
+            "title": "Kraftwerk Box",
+            "image": "./image/box/box_1.jpg",
+            "price": 17000,
+            "category": "box"
+        },
+        {
+            "id":5,
+            "title": "Monsignor pliers ",
+            "image": "./image/pliers/p_1.jpg",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":7,
+            "title": "Delta sander",
+            "image": "./image/sanders/sanders_4.jpg",
+            "price": 7500,
+            "category": "sanders"
+        },
+
+
+
+
+
+
+        {
+            "id":10,
+            "title": "Format Saw",
+            "image": "./image/saw/sc_3.jpg",
+            "price": 10000,
+            "category": "saw"
+        },
+        {
+            "id":13,
+            "title": "Pipe Wrench ",
+            "image": "./image/wrench/wr_5.jpg",
+            "price": 500,
+            "category": "wrench"
+        },
+        {
+            "id":11,
+            "title": "Torx screwdriver ",
+            "image": "./image/screwdrivers/sd_6.png",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":12,
+            "title": "Stanley Box",
+            "image": "./image/box/box_3.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":14,
+            "title": "Universal pliers",
+            "image": "./image/pliers/p_2.jpg",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":9,
+            "title": "eccentric sander",
+            "image": "./image/sanders/sanders_1.jpg",
+            "price": 8500,
+            "category": "sanders"
+        },
+        
+        
+
+
+        {
+            "id":10,
+            "title": "Mecanic Saw",
+            "image": "./image/saw/sc_6.jpg",
+            "price": 10000,
+            "category": "saw"
+        },
+        {
+            "id":13,
+            "title": "Mixed Wrench ",
+            "image": "./image/wrench/wr_1.jpg",
+            "price": 500,
+            "category": "wrench"
+        },
+        {
+            "id":11,
+            "title": "ResistorX screwdriver ",
+            "image": "./image/screwdrivers/sd_2.jpg",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":12,
+            "title": "Meister Box",
+            "image": "./image/box/box_2.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":14,
+            "title": "Multipurpose pliers",
+            "image": "./image/pliers/p_3.jpg",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":9,
+            "title": "Giraffe sander",
+            "image": "./image/sanders/sanders_6.jpg",
+            "price": 8500,
+            "category": "sanders"
+        },
+
+
+
+        {
+            "id":15,
+            "title": "Cold Saw",
+            "image": "./image/saw/sc_1.jpg",
+            "price": 10000,
+            "category": "saw"
+        },
+        {
+            "id":16,
+            "title": "English Wrench ",
+            "image": "./image/wrench/wr_4.jpg",
+            "price": 500,
+            "category": "wrench"
+        },
+        {
+            "id":17,
+            "title": "Electricity screwdriver",
+            "image": "./image/screwdrivers/sd_3.jpg",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":2,
+            "title": "Hipec Box",
+            "image": "./image/box/box_5.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":18,
+            "title": "Molly pliers",
+            "image": "./image/pliers/p_6.webp",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":20,
+            "title": "Belt sander",
+            "image": "./image/sanders/sanders_2.jpg",
+            "price": 8500,
+            "category": "sanders"
+        },
+
+
+
+
+        {
+            "id":19,
+            "title": "Saber Saw",
+            "image": "./image/saw/sc_2.jpg",
+            "price": 10000,
+            "category": "saw"
+        },
+        {
+            "id":1,
+            "title": "Tap Wrench ",
+            "image": "./image/wrench/wr_2.jpg",
+            "price": 500,
+            "category": "wrench"
+        },
+        {
+            "id":24,
+            "title": "Poridriv screwdriver",
+            "image": "./image/screwdrivers/sd_5.jpg",
+            "price": 500,
+            "category": "screwdriver"
+        },
+        {
+            "id":21,
+            "title": "Box_71",
+            "image": "./image/box/box_4.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":25,
+            "title": "Vise pliers",
+            "image": "./image/pliers/p_5.jpg",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":22,
+            "title": "Orbital sander",
+            "image": "./image/sanders/sanders_3.jpg",
+            "price": 8500,
+            "category": "sanders"
+        }
+
+
+
+
+    ]
+}

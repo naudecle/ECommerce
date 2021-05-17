@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "id":21,
+            "title": "Box_71",
+            "image": "./image/box/box_4.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":2,
+            "title": "Hipec Box",
+            "image": "./image/box/box_5.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":12,
+            "title": "Meister Box",
+            "image": "./image/box/box_2.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":12,
+            "title": "Stanley Box",
+            "image": "./image/box/box_3.jpg",
+            "price": 10000,
+            "category": "box"
+        },
+        {
+            "id":8,
+            "title": "Kraftwerk Box",
+            "image": "./image/box/box_1.jpg",
+            "price": 17000,
+            "category": "box"
+        }
+    ]
+}

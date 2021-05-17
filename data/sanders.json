@@ -1,0 +1,40 @@
+{
+    "products":[
+        {
+            "id":7,
+            "title": "Delta sander",
+            "image": "./image/sanders/sanders_4.jpg",
+            "price": 7500,
+            "category": "sanders"
+        },
+        {
+            "id":9,
+            "title": "eccentric sander",
+            "image": "./image/sanders/sanders_1.jpg",
+            "price": 8500,
+            "category": "sanders"
+        },
+        {
+            "id":9,
+            "title": "Giraffe sander",
+            "image": "./image/sanders/sanders_6.jpg",
+            "price": 8500,
+            "category": "sanders"
+        },
+        {
+            "id":20,
+            "title": "Belt sander",
+            "image": "./image/sanders/sanders_2.jpg",
+            "price": 8500,
+            "category": "sanders"
+        },
+        {
+            "id":22,
+            "title": "Orbital sander",
+            "image": "./image/sanders/sanders_3.jpg",
+            "price": 8500,
+            "category": "sanders"
+        }
+
+    ]
+}

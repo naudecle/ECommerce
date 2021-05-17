@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "id":5,
+            "title": "Monsignor pliers ",
+            "image": "./image/pliers/p_1.jpg",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":14,
+            "title": "Universal pliers",
+            "image": "./image/pliers/p_2.jpg",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":14,
+            "title": "Multipurpose pliers",
+            "image": "./image/pliers/p_3.jpg",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":18,
+            "title": "Molly pliers",
+            "image": "./image/pliers/p_6.webp",
+            "price": 700,
+            "category": "pliers"
+        },
+        {
+            "id":25,
+            "title": "Vise pliers",
+            "image": "./image/pliers/p_5.jpg",
+            "price": 700,
+            "category": "pliers"
+        }
+    ]
+}

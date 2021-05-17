@@ -12,5 +12,14 @@
   "dependencies": {
     "@glidejs/glide": "^3.4.1",
     "aos": "^2.3.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naudecle/ECommerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naudecle/ECommerce/issues"
+  },
+  "homepage": "https://github.com/naudecle/ECommerce#readme"
 }
